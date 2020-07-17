@@ -10,13 +10,11 @@
     "date-fns": "^2.14.0",
     "polished": "^3.6.5",
     "react": "^16.13.1",
-    "react-day-picker": "^7.4.8",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1",
     "react-toastify": "^6.0.8",
-    "styled-components": "^5.1.0",
-    "yup": "^0.29.1"
+    "styled-components": "^5.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
